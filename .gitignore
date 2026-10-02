@@ -1,0 +1,7 @@
+# 编译中间产物
+build/
+cmake-build-*/
+*.o
+*.obj
+*.user
+*.autosave
